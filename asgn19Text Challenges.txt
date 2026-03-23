@@ -1,0 +1,36 @@
+Sample Sentences:
+omg this is sooo cool 😂
+I cant beleive this happened
+brb going out
+lol that was funny
+u r amazing
+this is gr8
+wat are you doing
+pls send details asap
+thx for help
+gud morning
+hahaha 😂😂
+its okk no prob
+see u soon
+omg!!! unbelievable!!!
+this is awsm
+dnt worry
+call me asap!!!
+lolllll
+sooo happppy
+Issues Identified:
+Slang: omg, lol, brb
+Emojis: 😂
+Typos: beleive, gud
+Short forms: u, pls, thx
+
+
+
+
+Preprocessing Needed:
+Convert to lowercase
+Remove punctuation
+Correct spelling
+Expand slang
+Remove emojis
+Remove stopwords

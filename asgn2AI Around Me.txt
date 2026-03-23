@@ -1,0 +1,11 @@
+2. AI Around Me (10 Examples)
+Google Search – Uses ML ranking algorithms to show most relevant results.
+YouTube Recommendations – ML predicts videos based on watch history.
+Google Maps – Uses ML to predict traffic and fastest routes.
+Instagram Feed – ML ranks posts based on user interaction.
+Voice Assistants (Alexa/Google Assistant) – Uses NLP to understand speech.
+Spam Email Filter – ML classifies emails as spam or not.
+Netflix Recommendations – Suggests movies based on user behavior.
+Online Shopping (Amazon/Flipkart) – Recommends products using ML models.
+Face Unlock in Phones – Uses computer vision and ML for recognition.
+Autocorrect/Keyboard Suggestions – Predicts words using language models.

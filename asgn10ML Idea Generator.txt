@@ -1,0 +1,8 @@
+College: Predict student performance
+Input → Attendance, study hours → Output → Marks
+Healthcare: Disease prediction
+Input → Symptoms, history → Output → Disease
+Shopping: Product recommendation
+Input → User behavior → Output → Suggested products
+College: Placement prediction
+Input → Skills, CGPA → Output → Job chances

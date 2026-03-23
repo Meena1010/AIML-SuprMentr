@@ -1,0 +1,17 @@
+Features:
+
+Presence of keywords (free, win, offer)
+Message length
+Sender type
+Number of links
+
+Data Needed:
+
+Labeled dataset (spam / not spam)
+Email/SMS text data
+
+Possible Mistakes:
+
+False positives (important message marked as spam)
+False negatives (spam not detected)
+Language variations affecting accuracy

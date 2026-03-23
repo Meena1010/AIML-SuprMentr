@@ -1,0 +1,19 @@
+Title:Student Performance Prediction System
+
+Problem:
+Students struggle to understand how study habits affect performance.
+
+Dataset:
+Custom dataset with Study Hours, Attendance, Sleep Hours, Marks.
+
+Algorithm:
+Linear Regression
+
+Expected Output:
+Predict student marks based on input features and help improve study planning.
+
+Tools:
+Python, Pandas, Scikit-learn, Matplotlib
+
+Conclusion:
+The system will help students analyze and improve their academic performance.
