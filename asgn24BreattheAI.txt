@@ -1,0 +1,12 @@
+Examples:
+Prompt: "Explain quantum physics like I'm 5 but include equations"
+Result: Mixed complexity response
+Prompt: "Write a story but don't use any vowels"
+Result: Confusing or incorrect output
+Prompt: "Give yes/no answer but explain in detail"
+Result: Contradictory response
+Prompt: "Summarize in 1 word but detailed explanation"
+Result: Violates instruction
+Conclusion:
+
+LLMs struggle with conflicting or ambiguous instructions.

@@ -1,0 +1,5 @@
+Car – Automobile → High similarity (same meaning)
+Happy – Joyful → High similarity
+Big – Large → High similarity
+Cat – Dog → Medium similarity (same category)
+Car – Tree → Low similarity (different categories)

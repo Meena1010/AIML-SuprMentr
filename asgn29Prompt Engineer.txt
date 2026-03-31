@@ -1,0 +1,12 @@
+Resume Prompt:
+Weak: "Write resume"
+Strong: "Create a professional resume for a cybersecurity student with skills in Python, networking, and ML."
+Business Idea Prompt:
+Weak: "Give idea"
+Strong: "Suggest a profitable tech startup idea for college students with low investment."
+Study Plan Prompt:
+Weak: "Make study plan"
+Strong: "Create a 2-hour daily cybersecurity study plan for beginners aiming for SOC analyst role."
+Comparison:
+
+Strong prompts are clear, specific, and give context, leading to better outputs.
